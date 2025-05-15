@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Base shape - runway -->
+  <path d="M8 24L20 36L40 16" stroke="#4F46E5" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- V letter shape -->
+  <path d="M16 12L24 28L32 12" stroke="#4338CA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="24" cy="28" r="2" fill="#4F46E5"/>
+  <circle cx="40" cy="16" r="2" fill="#4F46E5"/>
+  <circle cx="8" cy="24" r="2" fill="#4F46E5"/>
+</svg>

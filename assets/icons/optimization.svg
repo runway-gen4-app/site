@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .primary { fill: #4f46e5; }
+    .secondary { fill: #7c3aed; }
+    .accent { fill: #14b8a6; }
+  </style>
+  <g>
+    <path class="primary" d="M10 40C10 26.2 21.2 15 35 15C48.8 15 55 25 55 25" stroke="#4f46e5" stroke-width="2.5" fill="none"/>
+    <path class="accent" d="M10 40C10 26.2 21.2 15 35 15C48.8 15 55 25 55 25" stroke="#14b8a6" stroke-width="1.5" fill="none"/>
+    <path class="secondary" d="M55 25L45 20M55 25L50 35" stroke="#7c3aed" stroke-width="2" fill="none"/>
+    <circle class="primary" cx="22" cy="27" r="3" fill-opacity="0.7"/>
+    <circle class="primary" cx="38" cy="22" r="3" fill-opacity="0.7"/>
+    <circle class="primary" cx="30" cy="35" r="3" fill-opacity="0.7"/>
+    <path class="secondary" d="M15 45L45 45" stroke="#7c3aed" stroke-width="2"/>
+    <path class="secondary" d="M20 45L20 50M30 45L30 50M40 45L40 50" stroke="#7c3aed" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .primary { fill: #4f46e5; }
+    .secondary { fill: #7c3aed; }
+  </style>
+  <g>
+    <path class="primary" d="M30 10L10 20V30C10 40 20 50 30 50C40 50 50 40 50 30V20L30 10Z" fill-opacity="0.1" stroke="#4f46e5" stroke-width="1.5" fill="none"/>
+    
+    <circle class="secondary" cx="30" cy="30" r="10"/>
+    <path class="primary" d="M25 30L28 33L35 26" stroke="white" stroke-width="2" fill="none"/>
+    
+    <path class="secondary" d="M30 10V20M10 20H20M50 20H40M30 20H40" stroke="#7c3aed" stroke-width="1" stroke-dasharray="2 1" fill="none"/>
+  </g>
+</svg>
